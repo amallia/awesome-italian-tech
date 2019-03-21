@@ -29,4 +29,6 @@ List of tech resources in Italy.
 
 ### Blogs
 
+| Blog | Description |
+| :------ | :---------- |
 | [Startupitalia](https://startupitalia.eu/) | Il magazine dell'innovazione e delle startup italiane. | 
