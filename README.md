@@ -1,5 +1,6 @@
 # Awesome Italian Tech
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/amallia/awesome-italian-tech-companies/blob/master/LICENSE)
 
 List of tech resources in Italy.
