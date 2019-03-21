@@ -8,6 +8,7 @@ List of tech resources in Italy.
 ## Table of Contents
 - [Companies :office:](#companies)
 - [Conferences :ticket:](#conferences)
+- [Blogs :link:](#blogs)
 
 
 ### Companies
@@ -24,3 +25,8 @@ List of tech resources in Italy.
 | :------ | :---------- | :-------- |
 | [Codemotion](https://www.codemotion.com/) | Tech conference for developers, open to all languages and technologies. |  `Rome` `Milan` |
 | [Rustlab](https://www.rustlab.it/) | RustLab is a new conference about the Rust language. |  `Florence` |
+
+
+### Blogs
+
+| [Startupitalia](https://startupitalia.eu/) | Il magazine dell'innovazione e delle startup italiane. | 
