@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/amallia/awesome-italian-tech-companies/blob/master/LICENSE)
 
-List of tech in Italy.
+List of tech resources in Italy.
 
 
 ## Table of Contents
