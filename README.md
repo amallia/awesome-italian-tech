@@ -1,4 +1,4 @@
-# Tech in Italy
+# Awesome Italian Tech
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/amallia/awesome-italian-tech-companies/blob/master/LICENSE)
 
