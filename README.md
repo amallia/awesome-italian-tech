@@ -7,7 +7,7 @@ List of tech in Italy.
 
 ## Table of Contents
 - [Companies :office:](#companies)
-- [Conferences ::ticket:](#conferences)
+- [Conferences :ticket:](#conferences)
 
 
 ### Companies
