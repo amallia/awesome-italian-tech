@@ -15,6 +15,7 @@ List of tech resources in Italy.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Bending Spoons](https://bendingspoons.com/) [:rocket:](https://bendingspoons.com/careers.html) | Mobile development. |  `Milan` |
+| [Subito.it](https://subito.it/) [:rocket:](https://info.subito.it/lavora-con-noi.htm) | Italian classified advertisements website. |  `Milan` |
 
 
 ### Conferences
@@ -22,3 +23,4 @@ List of tech resources in Italy.
 | Conference | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Codemotion](https://www.codemotion.com/) | Tech conference for developers, open to all languages and technologies. |  `Rome` `Milan` |
+| [Rustlab](https://www.rustlab.it/) | RustLab is a new conference about the Rust language. |  `Florence` |
